@@ -1,0 +1,19 @@
+.flex1{
+    float: left;
+    border: 2px solid olivedrab;
+    width: 400px;
+    margin-left: 50px;
+
+    margin-bottom: 15px;
+    margin-right: 10px;
+    display: flow-root;
+
+}
+.flex1 div:nth-of-type(0){
+overflow: hidden;
+}
+.flen{
+   display: flow-root;
+   
+
+}

@@ -1,0 +1,100 @@
+.App{
+  font-family: arial;
+}
+  .back{
+    background-image: url('http://stackcentre.in/img/carousel-1.jpg');
+  background-position:top center;
+    height: 400px;
+    background-repeat: no-repeat;
+  background-size: 700;
+  background-attachment: fixed;
+  background-origin:padding-box;
+word-spacing: 15px;
+position: relative;
+
+  }
+  .down{
+    position: absolute;
+    top: 180px;
+    left: 600px;
+    font-size: 45px;
+    color: white;
+  }
+  .top7{
+    margin-top:70px;
+  }
+  .back a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+  }
+
+  .fa-location-dot,.fa-phone,.fa-envelope{
+    border: 5px solid darkblue;
+    background-color: darkblue;
+    color: white;
+    border-radius: 25px;
+    margin-right: 15px;
+    font-size: 17px;
+  }
+  
+  .cen3{
+    text-align: center;
+  }
+  .button{
+    border: 2px solid rgba(4, 26, 87, 0.911);
+    background-color: rgba(4, 26, 87, 0.911);
+    border-radius: 25px;
+    color: white;
+    padding: 4px;
+    font-size: 17px;
+  margin-top: 15px;
+    
+  }
+  .button:hover{
+    background-color: skyblue;
+  }
+.alexy{
+  display: flex;
+}
+  
+  .border{
+    border: 2px solid white;
+  
+  }
+  .alext{
+ margin-bottom: 60px;
+  }
+  .alex8{
+    padding-right: 20px;
+    
+  }
+  .alex8 input{
+    width: 94%;
+    border-radius: 25px;
+    padding: 7px;
+    
+  }
+  .ink{
+    border-radius: 25px;
+    text-align: left;
+    padding-left: 10px;
+  }
+ 
+  .li{
+    line-height: 35px;
+  }
+
+  .fa-facebook,.fa-twitter,.fa-instagram,.fa-linkedin{
+    border:5px solid blue;
+    border-radius: 50%;
+    color: white;
+    font-size: 30px;
+    background-color: blue;
+    }  
+    .gets{
+      margin-bottom: 15px;
+    }
+    .alex8 input{
+      margin-bottom: 17px !important;
+    }

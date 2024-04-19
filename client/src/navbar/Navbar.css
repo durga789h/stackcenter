@@ -1,0 +1,55 @@
+.fix{
+  background-color:white;
+}
+.alex7{
+  position:sticky;
+  top:0;
+background-color: white;
+z-index: 101;
+}
+.kit2{
+display: flex;
+gap:25px;
+flex-direction: row;
+justify-content: center;
+list-style: none;
+padding: 0px;
+margin: 0px;
+
+}
+
+.point3{
+  cursor: pointer;
+}
+.bit1{
+  margin-top:0px;
+  margin-left: 0px;
+}
+.out4{
+color: red !important;
+padding: 10px;
+margin-left: 30px;
+margin-bottom: 0 !important;
+}
+.po{
+  margin-top: 0;
+}
+
+ button.new4{
+    background-color: rgba(87, 51, 4, 0.911);
+padding: 12px;
+  font-size: 20px;
+  }
+  .new4:hover{
+    background-color:skyblue;
+  }.fa-arrow-right{
+color: white ;
+margin-left: 5px;
+  }
+  .poin{
+    margin-bottom: 5px;
+  }
+  #out4{
+color: white;
+
+  }

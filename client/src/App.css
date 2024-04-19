@@ -1,0 +1,330 @@
+.App{
+  font-family: arial;
+}
+
+  .cen{
+    background-color: black;
+    margin-top: -47px;
+    text-align: center;
+    color: white;
+  }
+  .new1{
+    margin-left: 60px;
+  }
+  
+  .mar2{
+    margin-left: 80px;
+  }
+  .mar{
+    margin-left:10px;
+  }
+
+.left{
+  margin-left: 40px;
+  margin-top: -40px;
+  
+}
+.left1{
+  margin-right:100px;
+  
+}
+.len{
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.fa-facebook,.fa-twitter,.fa-instagram,.fa-linkedin{
+border:5px solid blue;
+border-radius: 50%;
+color: white;
+font-size: 25px;
+background-color: blue;
+}
+
+.hide{
+  visibility: hidden;
+  word-spacing: 15px;
+  
+}
+.hide1{
+  margin: 15px;
+}
+
+ul a{ 
+  text-decoration: none;
+  color: black;
+}
+.nat{
+  margin-left: -630px;
+}
+ul{
+  padding:0px 0px 20px 60px;
+}
+
+.cen2{
+ 
+  width: 100%;
+}
+
+
+.tei h1 i{
+  color:darkblue;
+  font-size: 45px;
+}
+.tei p {
+  color: rgba(0, 0, 0, 0.582);
+}
+.try:hover{
+  background-color:rgba(4, 26, 87, 0.911);
+  color: white;
+  transform: translateY(-20px); 
+  transition: transform 0.1s ease;  
+}
+
+.try:hover i{
+  color: white;
+}
+.try:hover p{
+  color:white;
+}
+.try:hover .hide{
+  visibility: visible;
+}
+#bit4{
+  margin-bottom: 10px;
+}
+
+.bit{
+  margin-top:20px;
+}
+#bit3{
+margin-top: 20px;
+}
+
+.alex{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-top: 70px;
+  text-align: center;
+margin-left: 120px;
+}
+.alex1{
+  display: flex;
+justify-content: space-between;
+}
+.tei{
+  background-color:rgba(191, 243, 243, 0.349);
+  width: 300px;
+  margin: 15px;
+  padding: 20px;
+}
+.button{
+  padding: 20px;
+  width: 170px;
+  font-size: 20px;
+}
+.button:hover{
+background-color: rgb(10, 194, 194) !important;
+}
+.bit p{
+  color: rgba(0, 0, 0, 0.582);
+}
+.height{
+  height: 400px;
+  width: 520px;
+}
+.alex2{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  
+}
+.left3{
+  margin-left: 140px;
+  
+}
+.cen3{
+  text-align: center;
+}
+.gray{
+  background-color:rgb(171, 247, 247);
+}
+.ka{
+  float: left;
+  margin-right: 20px;
+}
+.ka::after{
+  clear: both;
+}
+.dis{
+  display: flow-root;
+}
+.tit{
+  font-size: 22px;
+  text-align: center;
+}
+.tit1{
+  font-size: 22px;
+}
+.tit2{
+  font-size: 18px;
+}
+
+.bo{
+  box-shadow:3px 0px 0px silver;
+  display: inline;
+  padding: 20px;
+}
+ .boz{
+  text-align: right;
+}
+.ui{
+  border: 3px solid darkblue;
+  background-color: darkblue;
+  color: white;
+  position:fixed;
+  right: 0;
+  margin-top: -20px;
+}
+.grid{
+  display: grid;
+
+  grid-template-columns: auto auto auto;
+  background-color:rgba(185, 243, 243, 0.8);
+  padding: 10px;
+  
+  
+}
+.grid1{
+  border: 1px solid black;
+  padding: 08px;
+  font-size: 20px;
+  text-align: center;
+}
+.col{
+  background-color: rgb(185, 243, 243);
+  padding: 15px;
+  margin-top: -20px;
+}
+footer{
+  background-color: black;
+  color: white; 
+  margin-top: 30px;
+}
+.foot{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+footer ul{
+  list-style-type: none;
+ 
+}
+.li{
+  line-height: 35px;
+}
+.top{
+  border:3px solid darkblue;
+  background-color: darkblue;
+  color: white;
+ width:100%;
+
+}
+.cla{
+  height: 90px;
+}
+.till{
+  margin-left: -20px;
+}
+.keep{
+  position: relative;
+}
+.keep1{
+  position: absolute;
+  right:00px;
+  top:280px;
+  background-image: linear-gradient(red,yellow,green,pink);
+  color: white;
+  font-size: 25px;
+}
+.keep2{
+ position: absolute;
+ top:235px;
+ padding: 10px;
+left: 0px;
+ background-image: linear-gradient(green,pink,pink,green);
+ 
+ color: red;
+}
+.keep3{
+  position: absolute;
+  right: 0px;
+  top:235px;
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+  width: 130px;
+  background-image: linear-gradient(green,yellow,green,pink);
+  color: red;
+}
+.keep4{
+  position: absolute;
+  right: 0px;
+  top:542px;
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+  width: 130px;
+  background-image: linear-gradient(green,yellow,green,pink);
+  color: red;
+}
+.keep5{
+  position:absolute;
+  top:265px;
+  right: 80px;
+  color: white;
+  
+}
+.keep6{
+  border:3px solid darkblue;
+  background-color: rgb(8, 8, 238);
+  padding: 10px;
+  border-radius: 25px;
+}
+.keep7{
+  border:3px solid darkblue;
+  background-color: rgb(25, 25, 238);
+  padding: 10px;
+  border-radius: 25px;
+}
+.keep6:hover{
+ background-color:  rgb(10, 194, 194);
+}
+.keep7:hover{
+  background-color: rgb(10, 194, 194);
+}
+.grid:hover  .grid1{
+  background-color:skyblue;
+  
+}
+.try1{
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: 1s all ease;
+}
+.try1.active{
+  transform: translateY(0);
+  opacity: 1;
+}
+.less{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.jack{
+  padding: 20px;
+}
